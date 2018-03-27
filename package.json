@@ -1,0 +1,28 @@
+{
+  "name": "constitution",
+  "version": "1.0.0",
+  "description": "The updated and active constitution for RIT Esports.",
+  "main": "index.js",
+  "dependencies": {
+    "unit": "0.0.1-alpha",
+    "yaspeller-ci": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "spellcheck": "yaspeller-ci *.md",
+    "test": "npm run spellcheck"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RITesports/constitution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RITesports/constitution/issues"
+  },
+  "homepage": "https://github.com/RITesports/constitution#readme",
+  "lint-staged": {
+    "*.md": "yaspeller-ci"
+  }
+}
