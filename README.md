@@ -9,10 +9,10 @@ The updated and active constitution for RIT Esports.
 
 ## Contents
 
-### [Code of Conduct](./code_of_conduct.md)
-### [Role Definitions](./role_definitions.md)
-### [Elections](./elections.md)
-### [Community Guidelines](./community_guidelines.md)
+### [Code of Conduct](docs/code_of_conduct.md)
+### [Role Definitions](docs/role_definitions.md)
+### [Elections](docs/elections.md)
+### [Community Guidelines](docs/community_guidelines.md)
 
 ## Contributing
 
