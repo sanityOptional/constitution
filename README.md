@@ -1,9 +1,11 @@
 
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/RITesports/constitution.svg)](http://www.github.com/RITesports/constitution/pulls)
-[![Discord](https://img.shields.io/discord/148545963672338433.svg)](http://discord.gg/ritesports)
 
 # RIT Esports Constitution
 The updated and active constitution for RIT Esports.
+
+
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/RITesports/constitution.svg)](http://www.github.com/RITesports/constitution/pulls)
+[![Discord](https://img.shields.io/discord/148545963672338433.svg)](http://discord.gg/ritesports)
 
 ## Contents
 
