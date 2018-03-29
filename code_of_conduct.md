@@ -138,7 +138,7 @@ teams, will be handled via disciplinary action.
 
         3. Use of Illegal Drugs
 
-        4. Prescription or OTC Drug Abuse
+        4. Prescription or Over the Counter Drug Abuse
 
         5. Rape or Sexual Harassment
 
