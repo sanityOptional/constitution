@@ -74,7 +74,7 @@ elections to fill various leadership positions.
         elections.
 
 3.  **Executive Board Elections -** Elections will be held yearly in
-    the 12th week of the Spring semester. The elections will then be
+    the third to last week of the Spring semester. The elections will then be
     followed by a month-long transition period where the incumbent
     Executive Board members help the newly elected Executive Board
     members learn their responsibilities and how to do their jobs,

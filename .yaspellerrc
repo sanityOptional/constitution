@@ -1,0 +1,20 @@
+{
+  "lang": "en",
+  "dictionary": [
+    "yaspeller",
+    "Travis",
+    "RIT",
+    "Esports",
+    "esports",
+    "Reddit",
+    "EBoard",
+    "tryouts",
+    "AV",
+    "gameplay",
+    "gamefiles",
+    "intra",
+    "Adderall"
+  ],
+  "ignoreUrls": true,
+  "findRepeatWords": true
+}

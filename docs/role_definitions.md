@@ -199,7 +199,7 @@ gameplay, and helping the team to try new strategies. The mentor is not
 responsible for intra-team dynamics or forcing the team to try their
 ideas or practice. They are an analyst and supporter of the team that
 the players and Captain are encouraged to utilize. Each team will decide
-if the Mentor is a player, substitute player, or nonplayer. If the team
+if the Mentor is a player, substitute player, or non player. If the team
 feels that there is no need for a Mentor, the team will convey this to
 their Manager.
 
