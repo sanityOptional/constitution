@@ -25,8 +25,8 @@ voice and a vote in all Executive Board meetings.
 
 ***Treasurer**:* This role is an elected
 position by all members of the club. The Treasurer is responsible for
-handling all contact with regards to funding, as well as being available
-for contact regarding money concerns and requests to deposit money. The
+handling all contact with regards to funding, as well as following the 
+purchase guidelines set forth in the Purchase Request Guidelines. The
 Treasurer is also responsible for planning and helping to organize
 fundraising. The Treasurer can determine how much money can be allocated
 to those who request for funding. The Treasurer has a voice and a vote
@@ -44,7 +44,21 @@ responsible for conveying the documentation of scheduled club meetings
 in a timely fashion to those who have expressed a desire to see it. The
 Secretary has a voice and a vote in all Executive Board meetings.
 
-***Community Manager***: This role is an
+***Technology Director:*** This role is an elected
+position by all members of the club. The Technology Director is tasked with
+building and maintaining the front and backend of the club website, as well
+as all other resources developed by members of the Technology Team. The 
+Technology Director has a voice and a vote in all Executive Board meetings.
+
+***Production Director:*** This role is an elected
+position by all members of the club. The Production Director is responsible
+for delegating the design and creation of all printed materials, as well
+as any assets required by the Community, Technology, or other teams within
+the club. The Production Director is also responsible for setting, updating, 
+and enforcing the club style guidelines as necessary. The Production Director
+has a voice and a vote in all Executive Board meetings.
+
+***Community Director***: This role is an
 elected position by all members of the club. The Community Director is
 responsible for administering a moderator test and interview to
 potential moderators. This test is used to determine if the potential
@@ -98,7 +112,7 @@ requirements:***
     elections. In addition, they are expected to help the new
     Executive Board transition.
 
-***Meetings:***
+***Executive Meetings:***
 
 1.  Meetings may be called by the request of at least two Executive
     Board members concerning any club activities. The person who runs
@@ -111,24 +125,17 @@ requirements:***
 3.  Open Executive Board meetings may be called by any three Executive
     Board members concerning major club issues. The President will
     maintain order over the meeting.
+    
+***Executive Votes:***
+
+1.  Any time a vote is deemed necessary by the Purchase Request Guidelines,
+    or in response to a request to change any part of the constitution, an
+    Executive vote must be called.
+    
+2.  Votes requiring a quorum will consider a quorum met once 5 of 7 Executive
+    board members have voted, unless otherwise defined for a specific instance.
 
 ***Chairs and Community Roles***
-
-***Spokesperson**:* The Spokesperson is a
-Chair that is selected by Executive Board if deemed necessary, and will
-work closely with the President to ensure the correct message is
-distributed outside the organization. The Spokesperson is responsible
-for on-campus advertising of the club through posters, email
-announcements, and social media (Twitch, Twitter, Reddit, Facebook,
-etc.) for recruiting members. The Spokesperson has a voice in all
-Executive Board meetings, but no vote.
-
-***Webmaster:*** The Webmaster is a Chair
-selected by Executive Board to maintain the official website and team
-servers. They may ask other people within the organization to help them,
-but they will be responsible for drafting and maintaining their own
-team. The Webmaster has a voice in all Executive Board meetings, but no
-vote.
 
 ***Moderators**:* This role is
 responsible for maintaining order and policing club communications and
